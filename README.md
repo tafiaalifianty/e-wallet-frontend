@@ -1,8 +1,4 @@
-# Assignment React Website Application
-
-## Project Description
-
-This project is an assignment for Digitalent Batch 03 in learning React. The details of the project can be read in the specification provided by the trainers.
+# React Website Application
 
 ## How to Run
 
@@ -73,9 +69,3 @@ npm run start
 Frontend Developer:
 
 - Tafia Alifianty Dinita Putri
-
-Trainers:
-
-- Jonathan Hendry Gunawan
-- Thoriq Nur Faizal
-- Andri Winata
